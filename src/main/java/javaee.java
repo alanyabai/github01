@@ -3,17 +3,13 @@ public class javaee {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-			b b=new b();
+		int a = 3;
+		 int b = 1;
+		 int c;
+		 
+		  System.out.println("a=" + a);
+
 	}
 
 }
-class a{
-	public a() {
-	System.out.println("sss");
-}
-}
-class b extends a {
-	public b() {
-		System.out.println("saaa");
-	}
-}
+
